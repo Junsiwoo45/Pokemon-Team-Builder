@@ -27,7 +27,6 @@ Choose from a list of 151 Pokémon.
 
 <figure>
   <img src="https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/61b7ff76-64fc-4cbf-ac54-6b0edede39e8" alt="Pokémon List" style="float: left; margin-right: 10px;" />
-  <figcaption>Select a Pokémon, view its picture, and save it to your team.</figcaption>
 </figure>
 
 ### Save Pokémon to Team
