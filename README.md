@@ -15,25 +15,45 @@ Welcome to the Pokémon Team Builder, an application to help you create and mana
 ![Home Page](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/7529e473-6ab7-4c0e-940d-3d65c5e44884)
 
 ### Create Team
-#1. Enter a team name.
-#2. Click the plus button to start building your team.
-![Create Team](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/fb0af899-4dec-4209-83ef-14f161d743ec)
+1. Enter a team name.
+2. Click the plus button to start building your team.
+
+<figure>
+  <img src="https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/fb0af899-4dec-4209-83ef-14f161d743ec" alt="Create Team" style="float: left; margin-right: 10px;" />
+  <figcaption>Choose from a list of 151 Pokémon.</figcaption>
+</figure>
 
 ### Pokémon Selection
 Choose from a list of 151 Pokémon.
-![Pokémon List](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/61b7ff76-64fc-4cbf-ac54-6b0edede39e8)
+
+<figure>
+  <img src="https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/61b7ff76-64fc-4cbf-ac54-6b0edede39e8" alt="Pokémon List" style="float: left; margin-right: 10px;" />
+  <figcaption>Select a Pokémon, view its picture, and save it to your team.</figcaption>
+</figure>
 
 ### Save Pokémon to Team
 Select a Pokémon, view its picture, and save it to your team.
-![Save Pokémon](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/d3a0a6d4-09fd-4cc9-9d9d-25f53f88a599)
+
+<figure>
+  <img src="https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/d3a0a6d4-09fd-4cc9-9d9d-25f53f88a599" alt="Save Pokémon" style="float: left; margin-right: 10px;" />
+  <figcaption>View a list of saved teams and manage them.</figcaption>
+</figure>
 
 ### Saved Teams
 View a list of saved teams and manage them.
-![Saved Teams](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/c7bdb30a-8b85-4ee5-8a28-852b3e30480d)
+
+<figure>
+  <img src="https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/c7bdb30a-8b85-4ee5-8a28-852b3e30480d" alt="Saved Teams" style="float: left; margin-right: 10px;" />
+  <figcaption>Clicking on a team shows the Pokémon selected for that team.</figcaption>
+</figure>
 
 ### Team Details
 Clicking on a team shows the Pokémon selected for that team.
-![Team Details](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/0d3634b9-ecee-438a-a4fc-4a1be1a4abf9)
+
+<figure>
+  <img src="https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/0d3634b9-ecee-438a-a4fc-4a1be1a4abf9" alt="Team Details" style="float: left; margin-right: 10px;" />
+  <figcaption>Clicking on a team shows the Pokémon selected for that team.</figcaption>
+</figure>
 
 ## Technologies Used
 
