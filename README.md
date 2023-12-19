@@ -37,20 +37,7 @@ Clicking on a team shows the Pokémon selected for that team.
 
 ## Technologies Used
 
--**Android Studio**: code based in Java
 - **API Calls**: Utilizes Pokémon data through API calls.
 - **Room**: Data storage for saved teams using local storage.
 
-## Getting Started
 
-1. Clone the repository.
-2. Open the application in your preferred development environment.
-3. Run the application and start building your Pokémon teams!
-
-## Contributing
-
-Feel free to contribute to the project. If you have suggestions or find issues, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
