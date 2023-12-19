@@ -15,8 +15,8 @@ Welcome to the Pokémon Team Builder, an application to help you create and mana
 ![Home Page](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/7529e473-6ab7-4c0e-940d-3d65c5e44884)
 
 ### Create Team
-1. Enter a team name.
-2. Click the plus button to start building your team.
+#1. Enter a team name.
+#2. Click the plus button to start building your team.
 ![Create Team](https://github.com/Junsiwoo45/Pokemon-Team-Builder/assets/97806331/fb0af899-4dec-4209-83ef-14f161d743ec)
 
 ### Pokémon Selection
@@ -37,6 +37,7 @@ Clicking on a team shows the Pokémon selected for that team.
 
 ## Technologies Used
 
+-**Android Studio** : code based in Java
 - **API Calls**: Utilizes Pokémon data through API calls.
 - **Room**: Data storage for saved teams using local storage.
 
